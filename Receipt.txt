@@ -1,0 +1,154 @@
+Date: Mon May 21 10:19:41 SGT 2018
+Receipt No: 953
+Name: r r
+Phone No: r
+Address: r  r  r  r
+Zip Code: r
+
+
+Sub Total: 11.0
+Tax: 0.66
+Total due: 11.66
+Thanks and enjoy your meal
+Date: Tue May 22 09:29:15 SGT 2018
+Receipt No: 244
+Name: kelvin Paul
+Phone No: no2 
+Address: upm  Serdang  selangor  malaysia
+Zip Code: 5726373
+
+
+Sub Total: 7.5
+Tax: 0.45
+Total due: 7.95
+Thanks and enjoy your meal
+Date: Tue May 22 15:26:59 SGT 2018
+Receipt No: 357
+Name: y e
+Phone No: e
+Address: e  e  e  e
+Zip Code: e
+
+
+Sub Total: 5.5
+Tax: 0.33
+Total due: 5.83
+Thanks and enjoy your meal
+
+Date: Tue May 22 15:54:28 SGT 2018
+Receipt No: 586
+Name: Kelvin Paul
+Phone No: 0104587634
+Address: No 7  UPM  Serdang  Selangor
+Zip Code: 43200
+
+
+Sub Total: 18.5
+Tax: 1.11
+Total due: 19.61
+Thanks and enjoy your meal
+
+Date: Tue May 22 16:05:15 SGT 2018
+Receipt No: 862
+Name: Kelvin Smith
+Phone No: 0101458734
+Address: No 3  UPM  Damansara  Selangor
+Zip Code: 32400
+
+
+Sub Total: 11.0
+Tax: 0.66
+Total due: 11.66
+Thanks and enjoy your meal
+
+Date: Tue May 22 16:23:27 SGT 2018
+Receipt No: 383
+Name: Smith Lee
+Phone No: 01028934
+Address: NO3A  South City  Serdang  Selangor
+Zip Code: 3425
+
+
+Customer details
+Name: Smith  Lee
+Phone No: 01028934
+Address: NO3A  South City  Serdang  Selangor
+Zip Code: 3425
+
+
+Name		Price		Qty	Total
+Veg Burger	 5.5		1	5.5
+Chicken Rice	 6.5		0	0.0
+Nasi Lemak	 3.5		2	7.0
+Lemon Tea	 2.0		0	0.0
+Coke          	 2.0		3	6.0
+Teh Tarik  	 2.0		0	0.0
+
+Sub total: RM18.50
+Tax: RM1.11
+Total Amount Due: RM19.61
+
+Date: Tue May 22 16:26:08 SGT 2018
+Receipt No: 346
+Customer details
+Name: Kelvin  Smith
+Phone No: 010328934
+Address: 34C  Jalan Ara SD7/4G  Sri Damansara  Selangor
+Zip Code: 4325
+
+
+Name		Price		Qty	Total
+Veg Burger	 5.5		1	5.5
+Chicken Rice	 6.5		0	0.0
+Nasi Lemak	 3.5		1	3.5
+Lemon Tea	 2.0		0	0.0
+Coke          	 2.0		0	0.0
+Teh Tarik  	 2.0		2	4.0
+
+Sub total: RM13.00
+Tax: RM0.78
+Total Amount Due: RM13.78
+
+Date: Tue May 22 16:28:58 SGT 2018
+Receipt No: 177
+Customer details
+Name: Adam  Lee
+Phone No: 018923234
+Address: No7  One Utama  Bandar Utama  Selangor
+Zip Code: 89273
+
+Name		Price		Qty	Total
+Veg Burger	 5.5		2	11.0
+Chicken Rice	 6.5		0	0.0
+Nasi Lemak	 3.5		2	7.0
+Lemon Tea	 2.0		1	2.0
+Coke          	 2.0		1	2.0
+Teh Tarik  	 2.0		2	4.0
+
+Sub total: RM26.00
+Tax: RM1.56
+Total Amount Due: RM27.56
+
+
+Date: Sun Sep 22 08:16:00 SGT 2019
+Receipt No: 105
+Customer details
+Name: Emeka  Nwosa
+Phone No: 0102345444
+Address: 23  UPM  Serdang  Selangr
+Zip Code: 42322
+
+
+Name		Price		Qty	Total
+Veg Burger	 5.5		1	5.5
+Chicken Rice	 6.5		1	6.5
+Nasi Lemak	 3.5		0	0.0
+Lemon Tea	 2.0		2	4.0
+Coke          	 2.0		0	0.0
+Teh Tarik  	 2.0		0	0.0
+
+Sub total: RM16.00
+Tax: RM0.96
+Total Amount Due: RM16.96
+
+
