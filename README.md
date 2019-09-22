@@ -1,7 +1,7 @@
 # Restaurant-Ordering-System
-##This is a two person project for my introduction to Java programming course in my second semester. We had to include all that we learnt during the semester including but not limited to **Object Oriented Programming (inheritance, polymorphism, abstract and interface classes) and file management.
+##This is a two person project for my introduction to Java programming course in my second semester. We had to include all that we learnt during the semester including but not limited to **Object Oriented Programming (inheritance, polymorphism, abstract and interface classes) and file management.**
 
-The GUI was develped using **JAVAFX 
+The GUI was develped using **JAVAFX**
 
 ### Description of the project 
 ![Relationship Diagram](images/relationshipDiagram.PNG)
